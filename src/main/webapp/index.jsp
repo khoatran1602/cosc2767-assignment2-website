@@ -7,8 +7,8 @@ Author: Tran Dang Khoa
 ID: 3847766
 Created date: 01/1/2024
 Last modified: 01/1/2024
-Acknowledgement: Tutorial, ChatGPT, Stackoverflow -->
-
+Acknowledgement: Tutorial, ChatGPT, Stackoverflow
+-->
 <!doctype html>
 <html lang="en">
   <head>
